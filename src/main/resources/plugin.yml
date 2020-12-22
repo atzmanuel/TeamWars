@@ -1,0 +1,15 @@
+name: warzone
+main: com.zmanuel.warzone.Main
+api-version: 1.15
+version: 1.0-SNAPSHOT
+commands:
+  teamwars:
+    description: Main command
+  spawn:
+    description: Team spawn
+  sethome:
+    description: Team setHome
+  home:
+    description: Team Home
+  back:
+    description: Back command
