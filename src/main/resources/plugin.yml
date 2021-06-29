@@ -1,5 +1,5 @@
-name: warzone
-main: com.zmanuel.warzone.Main
+name: TeamWars
+main: com.zmanuel.teamwars.Main
 api-version: 1.15
 version: 1.0-SNAPSHOT
 commands:
@@ -13,3 +13,5 @@ commands:
     description: Team Home
   back:
     description: Back command
+  suicide:
+    description: Suicide command

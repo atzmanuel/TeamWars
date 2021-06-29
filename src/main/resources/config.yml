@@ -14,7 +14,7 @@ MONGO:
   HOST: 127.0.0.1
   PORT: 27017
   AUTH:
-    ENABLED: true
+    ENABLED: false
     DATABASE: 'admin'
-    USERNAME: 'Administrator'
-    PASSWORD: 'FQH289W_enNHxoULMUy!'
+    USERNAME: ''
+    PASSWORD: ''
